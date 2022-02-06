@@ -1,6 +1,6 @@
 # <p align="center"> UAS - Pemgrograman - Semester 1
 
-![iqbal](https://img.shields.io/badge/Apriyadi-312110500-critical?style=plastic&logo=python)
+![iqbal](https://img.shields.io/badge/Apriyadi-312110543-critical?style=plastic&logo=python)
 
 <br>
 
